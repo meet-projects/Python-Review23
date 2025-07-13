@@ -2,7 +2,7 @@
 
 ## Objective: 
 In this lab, you will practice the previous topics we have learned before during the yearlong!  
-Refreshing your memories and reviewing specifically: Python basics, Lists, Dictionaries & Functions.
+Refreshing your memories and reviewing specifically: Python basics, Lists, Dictionaries & Functions.  
 
 
 [![](https://camo.githubusercontent.com/131c25bd172508d5f376dd7fe56283ae7fda2194/68747470733a2f2f63646e302e746e7763646e2e636f6d2f77702d636f6e74656e742f626c6f67732e6469722f312f66696c65732f323031372f30392f625563767252632d312d373936783339382e6a7067)]()
@@ -54,7 +54,7 @@ You have an idea! Why not use Dictionaries? it's going to be super easy to do al
  
 
 If you have extra time, continue to the **Bonus Problems** *below*. <br>
-If not, make sure you commit and push your code.
+If not, make sure you submit your code here.
 
 
 <img src="https://developers.google.com/youtube/images/youtube_home_page_data_api.png" width="500">
@@ -74,4 +74,4 @@ If you have finished and still have time, first of all **GOOD JOB!**
 
 <img src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width="500">
 
-###### make sure you commit and push your code.
+###### make sure you submit your code here.
