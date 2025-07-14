@@ -8,9 +8,6 @@ Refreshing your memories and reviewing specifically: Python basics, Lists, Dicti
 [![](https://camo.githubusercontent.com/131c25bd172508d5f376dd7fe56283ae7fda2194/68747470733a2f2f63646e302e746e7763646e2e636f6d2f77702d636f6e74656e742f626c6f67732e6469722f312f66696c65732f323031372f30392f625563767252632d312d373936783339382e6a7067)]()
 
 
-**First things first, *fork* this repo(sitory) and *clone* it to your desktop!**
-
-
 In this section, you are an engineer at Youtube!  
 Susan, the CEO of Youtube, asks you to create an easier way to access, modify, and create youtube videos.  
 You have an idea! Why not use Dictionaries? it's going to be super easy to do all of the requirements using them.
