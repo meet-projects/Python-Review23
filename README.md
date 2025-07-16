@@ -51,7 +51,7 @@ You have an idea! Why not use Dictionaries? it's going to be super easy to do al
  
 
 If you have extra time, continue to the **Bonus Problems** *below*. <br>
-If not, make sure you submit your code here.
+If not, make sure you submit your code [here](https://forms.gle/e6JrquNKMSg4Ern56).
 
 
 <img src="https://developers.google.com/youtube/images/youtube_home_page_data_api.png" width="500">
@@ -71,4 +71,4 @@ If you have finished and still have time, first of all **GOOD JOB!**
 
 <img src="https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif" width="500">
 
-### make sure you submit your code here.
+### make sure you submit your code [here](https://forms.gle/e6JrquNKMSg4Ern56).
